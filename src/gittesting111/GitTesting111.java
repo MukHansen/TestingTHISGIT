@@ -16,6 +16,7 @@ public class GitTesting111 {
      */
     public static void main(String[] args) {
         System.out.println("Fucking Test");
+        System.out.println("2. Fucking TEST!");
         // TODO code application logic here
     }
     
