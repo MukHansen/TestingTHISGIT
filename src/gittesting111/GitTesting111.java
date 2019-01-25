@@ -19,6 +19,7 @@ public class GitTesting111 {
         System.out.println("2. Fucking TEST!");
         // TODO code application logic here
         System.err.println("Kig på dit skrivebord .... er du bøss!");
+        System.out.println("nyt");
     }
     
 }
